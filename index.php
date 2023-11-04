@@ -20,6 +20,7 @@ $title = "Home"
 </head>
 <body>
   <?php include "includes/navigation.php" ?>
+  <?php include "includes/carousel.php" ?>
   <?php include "includes/header.php" ?>
 
   <main class="p-2 mt-5">
@@ -31,7 +32,8 @@ $title = "Home"
         <?php include "includes/postList.php" ?>
         </div>
         <div class="col-4 sidebar ">
-          sidebar
+        <h2 class="text-center m-4">Enlaces de Interes</h2>
+        <?php include "includes/sidebar.php" ?>
         </div>
       </div>
     </div>

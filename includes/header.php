@@ -1,6 +1,6 @@
 <!-- Jumbotron -->
 <div class="card card-image" >
-  <div class=" text-center rgba-stylish-strong py-5 px-4">
+  <div class=" text-center rgba-stylish-strong py-5 px-4 text-white bg-primary border border-primary-subtle">
     <div class="py-5">
 
       <!-- Content -->
